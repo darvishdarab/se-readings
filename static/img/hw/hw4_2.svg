@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" height="351.7028px" preserveAspectRatio="none" style="width:802px;height:351px;background:#FFFFFF;" version="1.1" viewBox="0 0 802 351" width="802.4768px" zoomAndPan="magnify"><defs/><g><!--MD5=[72136138052d025cffdce3c22fbd185f]
+class Product--><g id="elem_Product"><rect codeLine="7" fill="#F1F1F1" height="105.4954" id="Product" rx="6.192" ry="6.192" style="stroke:#181818;stroke-width:1.238390092879257;" width="292.2601" x="351.7028" y="17.3375"/><text fill="#000000" font-family="sans-serif" font-size="34.6749" font-style="italic" lengthAdjust="spacing" textLength="277.3994" x="359.1331" y="61.9074">&lt;&lt;interface&gt;&gt;</text><text fill="#000000" font-family="sans-serif" font-size="34.6749" font-style="italic" lengthAdjust="spacing" textLength="133.7461" x="430.9598" y="102.2712">Product</text></g><!--MD5=[47ccbbcd9e46084c93562a335102da55]
+class Shelf--><g id="elem_Shelf"><rect fill="#F1F1F1" height="65.1316" id="Shelf" rx="6.192" ry="6.192" style="stroke:#181818;stroke-width:1.238390092879257;" width="247.678" x="17.3375" y="38.3901"/><text fill="#000000" font-family="sans-serif" font-size="34.6749" lengthAdjust="spacing" textLength="91.6409" x="95.356" y="82.96">Shelf</text></g><!--MD5=[84e3a5e42879fb3231104d3c8e592439]
+class Book--><g id="elem_Book"><rect fill="#F1F1F1" height="65.1316" id="Book" rx="6.192" ry="6.192" style="stroke:#181818;stroke-width:1.238390092879257;" width="247.678" x="205.5728" y="272.4458"/><text fill="#000000" font-family="sans-serif" font-size="34.6749" lengthAdjust="spacing" textLength="91.6409" x="283.5913" y="317.0158">Book</text></g><!--MD5=[6d439a513acee906c4f9a2dd4f629010]
+class DVD--><g id="elem_DVD"><rect fill="#F1F1F1" height="65.1316" id="DVD" rx="6.192" ry="6.192" style="stroke:#181818;stroke-width:1.238390092879257;" width="247.678" x="539.9381" y="272.4458"/><text fill="#000000" font-family="sans-serif" font-size="34.6749" lengthAdjust="spacing" textLength="79.257" x="624.1486" y="317.0158">DVD</text></g><!--MD5=[e0f7595ad426a05f3ba7191a6a808023]
+link Shelf to Product--><g id="link_Shelf_Product"><path codeLine="10" d="M265.169,70.5882 C289.6793,70.5882 314.187,70.5882 338.6947,70.5882 " fill="none" id="Shelf-to-Product" style="stroke:#181818;stroke-width:2.476780185758514;"/><polygon fill="#181818" points="351.5096,70.5882,329.2186,60.6811,339.1257,70.5882,329.2186,80.4954,351.5096,70.5882" style="stroke:#181818;stroke-width:2.476780185758514;"/></g><!--MD5=[ea2818518c3e326df44f310bd612eade]
+reverse link Product to Book--><g id="link_Product_Book"><path codeLine="11" d="M430.5882,164.536 C402.5288,202.7071 371.844,244.4453 351.7127,271.8328 " fill="none" id="Product-backto-Book" style="stroke:#181818;stroke-width:2.476780185758514;stroke-dasharray:7.0,7.0;"/><polygon fill="none" points="417.1443,153.5524,460.4557,123.9101,445.0824,174.0909,417.1443,153.5524" style="stroke:#181818;stroke-width:2.476780185758514;"/></g><!--MD5=[ceb6d375045c50d882ff53e78f2a8102]
+reverse link Product to DVD--><g id="link_Product_DVD"><path codeLine="12" d="M564.0867,164.536 C591.735,202.7071 621.9666,244.4453 641.8056,271.8328 " fill="none" id="Product-backto-DVD" style="stroke:#181818;stroke-width:2.476780185758514;stroke-dasharray:7.0,7.0;"/><polygon fill="none" points="549.6793,174.1981,534.6601,123.9101,577.761,153.8573,549.6793,174.1981" style="stroke:#181818;stroke-width:2.476780185758514;"/></g><!--MD5=[42105e5f6bcfe11c59e261ff8f73293b]
+@startuml
+scale 800 width
+hide circle
+skinparam classAttributeIconSize 0
+skinparam minClassWidth 100
+hide members
+
+interface "<<interface>>\nProduct" as Product {
+}
+
+Shelf  - -right- -> Product
+Product <|.. Book 
+Product <|.. DVD
+@enduml
+
+PlantUML version 1.2022.8beta2(Unknown compile time)
+(GPL source distribution)
+Java Runtime: Java(TM) SE Runtime Environment
+JVM: Java HotSpot(TM) 64-Bit Server VM
+Default Encoding: UTF-8
+Language: en
+Country: US
+--></g></svg>
