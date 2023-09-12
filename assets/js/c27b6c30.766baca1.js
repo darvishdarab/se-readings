@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcs421_f23_source=self.webpackChunkcs421_f23_source||[]).push([[3185],{6723:s=>{s.exports=JSON.parse('{"label":"hola","permalink":"/se-readings/blog/tags/hola","allTagsPath":"/se-readings/blog/tags","count":1}')}}]);
