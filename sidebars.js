@@ -8,7 +8,7 @@ module.exports = {
     {
       type: 'category',
       label: 'Building Software',
-      items: ['readings/wk1/build_software', 'readings/wk1/srs', 'readings/wk1/software_process', 'readings/wk1/oose_model', 'readings/wk1/mybooksapp', 'readings/wk1/user_stories', 'readings/wk1/project_planning', 'readings/wk1/backlog', 'readings/wk1/board'],
+      items: ['readings/wk1/build_software', 'readings/wk1/srs', 'readings/wk1/software_process', 'readings/wk1/oose_model', 'readings/wk1/jbapp', 'readings/wk1/user_stories', 'readings/wk1/project_planning', 'readings/wk1/backlog', 'readings/wk1/board'],
     },
     {
       type: 'category',
@@ -61,7 +61,6 @@ module.exports = {
       label: 'Git & Github',
       items: ['readings/wk1/git', 'readings/wk1/gitignore', 'readings/wk1/github'],
     },   
-    /*,
     { 
       type: 'category',
       label: 'Persistence with Databases',
@@ -91,7 +90,7 @@ module.exports = {
       type: 'category',
       label: 'Deployment, Continous Delivery/Integration (CI/CD)',
       items : ['readings/wk7/cd', 'readings/wk7/db', 'readings/wk7/ci'] 
-    }*/
+    }
 
   
   ],

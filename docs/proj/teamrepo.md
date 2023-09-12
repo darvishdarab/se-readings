@@ -10,30 +10,10 @@ Each team will have a GitHub repository.
 The state of your GitHub repository, in particular the project-board, `README` file, and `GitHub Pages`, will be a factor in your grade for each iteration.
 :::
 
-## Claim your repository!
+## Team repository!
 
 :::tip
-You must coordinate with your team members to **have one designated person create the team repository by following the instructions below!**
-:::
-
-* Please go to [https://classroom.github.com/a/6lmmPLkt](https://classroom.github.com/a/6lmmPLkt)
-* Login to your GitHub account and accept the invitation!
-* The invitation will initiate onboarding that ends with the creation of a group repository for your team. When you accept the invite, you will be presented with two options: (1) join an existing team or (2) create a new team. Please select "create a new team" and enter your team name following the format of team-xx-name where xx is a two-digit number that indicates your team number.
-
-## Repository Name
-
-Your repository name must be the name you have chosen for your team; all small letters. Please don't mess this up when you create a new team!
-
-::info
-Once the team repository is created let the other team members know! They must follow the instructions below to join the team repository!
-:::
-
-* Please go to [https://classroom.github.com/a/6lmmPLkt](https://classroom.github.com/a/6lmmPLkt) (same invite link as the one above)
-* Login to your GitHub account and accept the invitation!
-* You will be presented with two options: (1) join an existing team or (2) create a new team. Please select "join an existing team" and pick your team's repository!
-
-:::danger
-Make sure you do not join a wrong team here!
+A team repository has been provisioned to you assuming you have correctly filled out the google form communicated with you earlier and all team members should have admin access to it!
 :::
 
 

@@ -40,6 +40,6 @@ effective user stories:
 
 ## Sample User Stories
 
-Here are sample user stories for [MyBooks App](mybooksapp):
+Here are sample user stories for [JBApp](jbapp):
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRn_vg-3cgbduF4lH8KMlFaBpYv6-TxUBvN1NAA6-3KhgR6fpk4VjXe3-DoQm0AQNMalFPMP2WtR1VI/embed?start=false&loop=false&delayms=3000" frameborder="0" width="620" height="350" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRWxesUjszU2AKK641oN4gS_NuAsMTKhD570CyiN20s9-YQ78cZ7idlJlyAWSCBjZDHVwjjhYpjokDF/embed?start=false&loop=false&delayms=3000" frameborder="0" width="620" height="350" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
